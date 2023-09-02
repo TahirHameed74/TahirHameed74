@@ -24,7 +24,7 @@
 
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/tahir-hameed-304568244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tahir-hameed-304568244/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tsb_125)
 
 ### Let's Chat
