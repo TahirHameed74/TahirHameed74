@@ -31,7 +31,7 @@
 💌 Feel free to reach out if you want to discuss development, collaborate on projects, or just have a friendly chat.
 
 ### GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirhameed74&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahirHameed74&show_icons=true&theme=dark)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirhameed74&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirHameed74&layout=compact&theme=dark)
