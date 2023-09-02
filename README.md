@@ -20,19 +20,18 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 ### Portfolio Highlights
-- 🌟 [Project 1](https://github.com/yourusername/project1): Brief description and demo of your project.
-- ⚡️ [Project 2](https://github.com/yourusername/project2): Short description and demo link.
-- 🔗 [Project 3](https://github.com/yourusername/project3): Another exciting project!
+- 🌟 [Project 1](https://github.com/TahirHameed74/ExpenseTracker): Built with React.js that helps you effortlessly manage and track your expenses based on specific dates.
+
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/tahir-hameed-304568244/))
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tsb_125)
 
 ### Let's Chat
 💌 Feel free to reach out if you want to discuss development, collaborate on projects, or just have a friendly chat.
 
 ### GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirhameed74&show_icons=true&theme=dark)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirhameed74&layout=compact&theme=dark)
