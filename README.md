@@ -8,7 +8,7 @@
 
 ## Full Stack Developer | MERN Stack | Python Enthusiast
 
-👨‍💻 Welcome to my corner of GitHub! I'm passionate about crafting clean code, building amazing web applications, and constantly learning.
+Welcome to my corner of GitHub! I'm passionate about crafting clean code, building amazing web applications, and constantly learning.
 
 ### What I Do
 - 🌐 Develop stunning and user-friendly web applications using the MERN stack (MongoDB, Express, React, Node.js).
