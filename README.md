@@ -2,6 +2,7 @@
 
 ![banner](https://github.com/TahirHameed74/tahirhameed74/assets/33459018/52765c7e-d72f-4452-9556-f1dfd2c17902)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=TahirHameed74)
 
 
 # Hi there, I'm Tahir Hameed (https://github.com/TahirHameed74) 👋
