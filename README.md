@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=TahirHameed74) ![Wakatime Stats](https://wakatime.com/badge/user/TahirHameed74.svg)
+![](https://komarev.com/ghpvc/?username=TahirHameed74)
 
 
 ![banner](https://github.com/TahirHameed74/tahirhameed74/assets/33459018/52765c7e-d72f-4452-9556-f1dfd2c17902)
