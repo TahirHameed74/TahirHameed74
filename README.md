@@ -21,9 +21,6 @@ Welcome to my corner of GitHub! I'm passionate about crafting clean code, buildi
 ![MERN Stack](https://img.shields.io/badge/Tech%20Stack-MERN-green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
-### Portfolio Highlights
-- 🌟 [Project 1](https://github.com/TahirHameed74/ExpenseTracker): Built with React.js that helps you effortlessly manage and track your expenses based on specific dates.
-
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tahir-hameed-304568244/)
